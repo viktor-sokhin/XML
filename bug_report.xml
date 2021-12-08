@@ -1,1 +1,13 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <identifier>identifier</identifier>
+  <summary>summary</summary>
+  <description>description</description>
+  <steps_to_reproduce>steps to reproduce</steps_to_reproduce>
+  <reproducibility>reproducibility</reproducibility>
+  <severity>severity</severity>
+  <priority>priority</priority>
+  <workaround>workaround</workaround>
+  <comments>comments</comments>
+  <attachments>attachments</attachments>
+</bug_report>
